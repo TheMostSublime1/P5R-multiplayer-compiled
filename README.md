@@ -1,25 +1,11 @@
-## P5R MP
-A mod that adds multiplayer to Persona 5 Royal. Only intends to sync player characters at this stage.
-## Todo:
-+ Fix player npcs not having Joker's full animation set, resulting in sometimes having an idle animation instead of jump, slide etc
-+ Chat
-+ Ensure synced animations end nicely by playing their end animation(?)
-+ Some form of player verification (Steam perhaps)
-+ Transition away from using flowscript calls (Especially for setting pos and rotation)
-## Current setup
-+ Run the built server executable
-+ launch P5R instances via Reloaded-II with the P5R multiplayer mod enabled. Which connect to the server
-(Reccomended to have intro skip patch in P5R Essentials)
-## Connecting to remote servers
-If you want to connect to remote servers with an ip address that is not localhost:
-+ Ensure desired server has port forwarded the port (UDP) it's using
-+ Open the Reloaded-II's mod configuration
-+ Change ip address and port to that of which your desired server has. (Server prints the public ip and port in server console for convenience on start)
-## Changing name
-+ You can change the name that is networked to the server in mod config (I'm going to regret allowing this)
-+ It will be cut off at 16 characters
-## Hosting options
-You can change what port you host the server on by applying the --port 1234 argument when launching the server
+How to setup P5R Multiplayer: 
+1. Download the nessecary files
+2. Get Reloaded II & get .NET alongside it
+3. Import the "Mods.zip" Folder into the root of the Reloaded II folder (Extracted)
+4. Open Reloaded II and when prompted to, go to the directory "C:\Program Files (x86)\Steam\steamapps\common\P5R" and select "P5R.exe"
+5. At this point, you should have the mod enabled
+6. Select "Configure Mod". This will allow you to change the IP address/Port to what you need
+7. Click Launch Application and you should be good to go
 
-When portforwarding note that this uses UDP only
 
+ Enjoy!
