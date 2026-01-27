@@ -12,3 +12,9 @@ How to setup P5R Multiplayer:
 
 
 Have fun! If anyone has questions do not be afraid to go to the issues section or DM on discord @ themostsublime1
+
+
+https://github.com/user-attachments/assets/d6364b7a-40ed-454d-b7ea-3f7083109fbc
+
+Also forgot to mention that you will have to select these 2 in order to get it in the configuration
+<img width="960" height="498" alt="image" src="https://github.com/user-attachments/assets/cd81cffd-520b-4e55-bd11-b8e074d77550" />
