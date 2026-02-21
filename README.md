@@ -14,3 +14,8 @@ Have fun! If anyone has questions do not be afraid to go to the issues section o
 Proof it works:
 https://github.com/user-attachments/assets/13d32f40-e97b-4959-8204-0dde96cde691
 
+How to Use Splitscreen:
+
+1. Get 2 monitors and 2 controllers
+2. in reloaded II, press Launch application twice
+3. go to the same save file and play stuff.
